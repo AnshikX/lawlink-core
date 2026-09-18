@@ -1,0 +1,14 @@
+{
+  "name": "lawlink",
+  "owner": {
+    "name": "LawLeaders",
+    "url": "https://lawlink.ai"
+  },
+  "plugins": [
+    {
+      "name": "lawlink",
+      "source": "./plugins/lawlink",
+      "description": "LawLink legal platform integration — connector and core workflow skills."
+    }
+  ]
+}

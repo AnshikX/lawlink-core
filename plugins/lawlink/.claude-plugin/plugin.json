@@ -1,0 +1,9 @@
+{
+  "name": "lawlink",
+  "description": "LawLink legal platform integration — connector and core workflow skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "LawLeaders",
+    "url": "https://lawlink.ai"
+  }
+}
